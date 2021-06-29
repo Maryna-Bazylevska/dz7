@@ -496,7 +496,7 @@ align-items: top;
 }
 /* hero */
 /* projekts */
-.projects{
+.projects_list{
   display: flex;
   flex-wrap: wrap;
   padding-bottom: 94px;
