@@ -461,12 +461,8 @@ align-items: top;
 }
 
 .team_text {
-  
- 
   font-size: 16px;
   line-height: 1.187;
-  
-  
 }
 .text {
   color: var(--primary-text-color);
@@ -493,12 +489,9 @@ align-items: top;
   background-position: center;
 }
 
-}
 /* hero */
 /* projekts */
-.main-section{
-  display: flex;
-}
+
 
 .projects{
   display: flex;
