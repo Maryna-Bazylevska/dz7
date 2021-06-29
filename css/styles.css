@@ -496,7 +496,11 @@ align-items: top;
 }
 /* hero */
 /* projekts */
-.projects_list{
+.projects-page{
+  display: flex;
+ 
+}
+.projects{
   display: flex;
   flex-wrap: wrap;
   padding-bottom: 94px;
@@ -505,15 +509,12 @@ align-items: top;
   width: 370px;
   margin-bottom: 30px;
   border: 1px solid #EEEEEE;
-  margin-right:0;
+  margin-right: 30px;
   transition-property:color, background-color;
   transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
-.projects_item{
-  margin-right: 30px;
-  margin-bottom: 30px;
-}
+
 .projects_item--margin_right{
   margin-right: 0;
 }
